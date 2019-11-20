@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">testforandroid</string>
+    <string name="textintext1">Фамилия</string>
+    <string name="text2">Имя</string>
+    <string name="text3">Отчество</string>
+    <string name="text4">Год</string>
+    <string name="text5">Школа</string>
+    <string name="text6">Город</string>
+    <string name="text7">Опыт программирования</string>
+    <string name="text8">Знание языков программирования</string>
+
+</resources>
